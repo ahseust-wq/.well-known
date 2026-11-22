@@ -1,0 +1,16 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.seus.onepour",
+      "sha256_cert_fingerprints": [
+        "D7:D6:59:68:AA:C0:6F:19:AB:D7:77:A6:D3:A1:C6:F6:06:2F:A9:70:E0:B5:35:0D:4B:C2:40:BB:EF:6A:EB:10",
+        "7A:3C:81:83:00:A4:EC:78:4E:C0:A1:B3:88:2C:6F:8A:D5:1A:1F:AC:7B:A5:07:F9:A3:76:86:6F:DF:94:04:72",
+        "6E:DA:3C:7C:0F:10:1A:6C:13:97:0F:A5:27:7B:8C:41:F4:FD:1B:04:B6:D3:9C:BB:17:90:AB:D6:78:60:E1:13"
+      ]
+    }
+  }
+]
